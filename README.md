@@ -35,7 +35,7 @@ Create a Node.js server that:
 
 - **Navigate to Your Project Folder:**
   - Change into your new directory:
-    ```bash
+    ```powershell
     cd my_node_server
     ```
 
@@ -43,8 +43,8 @@ Create a Node.js server that:
 - **Create a File Named `server.js`:**
   - This file will be the entry point for your Node.js server.
   - You can create it using a text editor or via the terminal:
-    ```bash
-    touch server.js
+    ```powershell
+    new-item server.js
     ```
 4. Open the terminal and Type `git add .` to stage all updated files. 
 5. Type `git commit -m "Guided Activity 2 Complete"`.
