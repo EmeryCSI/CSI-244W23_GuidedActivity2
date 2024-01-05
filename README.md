@@ -46,10 +46,8 @@ Create a Node.js server that:
     ```powershell
     new-item server.js
     ```
-4. Open the terminal and Type `git add .` to stage all updated files. 
-5. Type `git commit -m "Guided Activity 2 Complete"`.
-6. Type `git push` to push the changes to GitHub.
 ---
+Create a new commit with the message Step 1 Complete and push the changes to GitHub
 
 ### Step 2: Create Separate Modules for Each Functionality
 
@@ -112,7 +110,7 @@ Create a Node.js server that:
     ```
 
 ---
-
+Create a new commit with the message Step 2 Complete and push the changes to GitHub
 ### Step 3: Implementing the Server (`server.js`)
 
 #### Setting Up the Server
@@ -203,7 +201,7 @@ Create a Node.js server that:
     ```
 
 ---
-
+Create a new commit with the message Step 3 Complete and push the changes to GitHub
 ### Step 4: Testing Your Server
 
 1. **Run Your Server:**
@@ -219,9 +217,7 @@ Create a Node.js server that:
    - Navigate to `http://localhost:3000/log-visit` to log your visit.
    - Check `http://localhost:3000/show-log` to view the log.
 
-4. Open the terminal and Type `git add .` to stage all updated files. 
-5. Type `git commit -m "Guided Activity 2 Complete"`.
-6. Type `git push` to push the changes to GitHub.
+Create a new commit with the message Guided Activity 2 Complete and push the changes to GitHub
 
 
 If you have any questions about this assignment please reach out to myself or our TA for this course.
